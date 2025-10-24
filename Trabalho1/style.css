@@ -6,11 +6,16 @@ body{
 }
 header{
     background-color: #00a5c8;
-    padding: 60px;
+    padding: 40px;
+}
+
+.logo{
+  width: 100px;
+  padding: 0;
 }
 
 main {
-  padding: 100px 20px 350px;
+  padding: 100px 20px 100px;
   text-align: left;
   background-color: #1e1e1e;
 }
